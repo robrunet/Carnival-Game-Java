@@ -1,3 +1,4 @@
+//Roll mutli sided die and print out sum; compare to see if won
 import java.util.Random;
 public class CarnivalGame
 {
